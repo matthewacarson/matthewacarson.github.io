@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "matthewacarson.github.io"
+  title: "Matt Carson"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/matthewacarson
       - icon: twitter
-        href: https://twitter.com
+        # href: https://twitter.com
 format:
   html:
     theme: cosmo
