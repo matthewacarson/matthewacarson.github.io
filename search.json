@@ -11,20 +11,13 @@
     "href": "index.html",
     "title": "My Projects",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 22, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 19, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Household Income in Census Tracts Where Someone Was Killed by Police\n\n\n\n\n\n\n\npolice killings\n\n\n\n\n\n\n\n\n\n\n\nJul 22, 2023\n\n\nMatt Carson\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/police-killings-1/index.html",
+    "href": "posts/police-killings-1/index.html",
+    "title": "Household Income in Census Tracts Where Someone Was Killed by Police",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "I’m working on a project analyzing various class indicators (or levels of deprivation/privilege, if you prefer) in which someone was killed by law enforcement.\nThere is a longer history of the debate around whether or not police killings are a function of capitalist political economy and the managing of the “surplus population” or whether the phenomenon largely derives from discrimination against black Americans. I may return to this in more detail in a future post, but for now I wanted to share the plots I have made for the honors thesis project. Hopefully someone will find them useful in helping us to better understand the phenomenon. Any feedback is appreciated.\n[plots here]"
   }
 ]
