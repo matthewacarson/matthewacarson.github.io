@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -111,6 +111,10 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./essays.html">
+ <span class="menu-text">Essays</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html">
  <span class="menu-text">About Me</span></a>
@@ -161,7 +165,10 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="police killings" data-listing-date-sort="1690009200000" data-listing-file-modified-sort="1690059581806" data-listing-reading-time-sort="0.555">
+<div class="quarto-post image-right" data-index="0" data-categories="police killings" data-listing-date-sort="1690009200000" data-listing-file-modified-sort="1690066645203" data-listing-reading-time-sort="2.375">
+<div class="thumbnail">
+<p><a href="./posts/police-killings-1/index.html"> <img src="./posts/police-killings-1/images/Tract_income_as_a_percentage_of_county_income-01.svg" class="thumnail-image"> </a></p>
+</div>
 <div class="body">
 <a href="./posts/police-killings-1/index.html">
 <h3 class="no-anchor listing-title">
@@ -178,7 +185,7 @@ police killings
 </div>
 <a href="./posts/police-killings-1/index.html">
 <div class="listing-description">
-I’m working on a project analyzing various class indicators (or levels of deprivation/privilege, if you prefer) in which someone was killed by law enforcement.
+I’m working on a project analyzing various class indicators (or levels of deprivation/privilege, if you prefer) in census tracts<sup>1</sup> where someone was killed by law enforcement.<sup>2</sup>
 </div>
 </a>
 </div>
