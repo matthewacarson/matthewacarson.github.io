@@ -1,0 +1,13 @@
+---
+title: "Household Income in Census Tracts Where Someone Was Killed by Police"
+author: "Matt Carson"
+date: "2023-07-22"
+categories: [police killings]
+# image: "image.jpg"
+---
+
+I'm working on a project analyzing various class indicators (or levels of deprivation/privilege, if you prefer) in which someone was killed by law enforcement.
+
+There is a longer history of the debate around whether or not police killings are a function of capitalist political economy and the managing of the "surplus population" or whether the phenomenon largely derives from discrimination against black Americans. I may return to this in more detail in a future post, but for now I wanted to share the plots  I have made for the honors thesis project. Hopefully someone will find them useful in helping us to better understand the phenomenon. Any feedback is appreciated.
+
+[plots here]

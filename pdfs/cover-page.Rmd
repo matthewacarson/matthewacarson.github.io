@@ -1,0 +1,45 @@
+---
+output:
+  pdf_document:
+    latex_engine: xelatex
+header-includes:
+  - \usepackage[margin=1in]{geometry}
+  - \usepackage{setspace}
+  - \setstretch{2}
+  - \usepackage{parskip}
+  - \setlength{\parskip}{.01em}
+  - \usepackage{fontspec}
+  - \setmainfont{Times New Roman}
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \fancyhead[R]{Carson \thepage{} of \pageref{LastPage}}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage{lastpage}
+  - \usepackage{hyphenat} # Add the hyphenat package
+  - \hyphenpenalty=10000 # Set the hyphenation penalty to a high value
+  - \usepackage{ragged2e} # Add the ragged2e package
+  - \RaggedRight # Set text alignment to ragged right
+  - \usepackage{parskip}
+  #- \setlength{\parskip}{0.01em}
+  - \setlength{\parindent}{2em}
+  - \usepackage{titlesec} # Add the titlesec package
+  - \titlespacing{\section}{0pt}{\parskip}{-\parskip}
+  - \titlespacing*{\subsection}{0pt}{\baselineskip}{\baselineskip} # Adjust the space betwn subheadings and paragraphs
+fontsize: 12pt
+---
+
+\begin{titlepage}
+  \centering
+  \vspace*{1.95in}
+  {Worker Power in Construction Unions\par}
+  \vspace{1em}
+  {Pre-Hire Agreements and Class Collaboration
+\par}
+  \vspace{1.2in}
+  {Matthew A. Carson\par}
+  \vspace{1em}
+  {University of California, Los Angeles\par}
+  \vspace{1in}
+  {Spring 2023\par}
+\end{titlepage}
