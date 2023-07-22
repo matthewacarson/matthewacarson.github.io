@@ -12,17 +12,21 @@ I'm working on a project analyzing various class indicators (or levels of depriv
 
 [^2]: I will refer to this phenomenon as "police killings" throughout the rest of the blog. This is not to be confused with law enforcement officers being killed.
 
-There is a longer history of the debate around whether or not police killings are a function of capitalist political economy and the managing of the "surplus population" or whether the phenomenon largely derives from discrimination against black Americans[^3]. I may return to this in more detail in a future post, but for now I wanted to share the plots I have made for my honors thesis project. Hopefully someone will find them useful in helping us to better understand the phenomenon. Any feedback is appreciated.
+There is a longer history of the debate around whether or not police killings are a function of capitalist political economy and the managing of the "surplus population" or whether the phenomenon largely derives from discrimination against black Americans[^3]. I may return to this in more detail in a future post, but for now I wanted to share the plots I have made for my honors thesis project. Hopefully someone will find them useful in helping us to better understand the phenomenon. Any feedback is appreciated.[^4]
 
 [^3]: Or both, but still the question hinges on to what extent racist discrimination can explain the phenomenon, and to what extent that explanation is inadequate.
 
-The following plot shows the per 10 million rate of police killings in census tracts based on their median household income as a proportion of the county median household income in which they are situated. I used this measure rather than raw incomes to adjust for differences in what is considered low income and high income.[^4] This plot shows that the incidence of police killings varies quite a lot depending on tract income level. Low income tracts experience a rate nearly twice that of average income tracts, and high income tracts experience a rate less than one-third of low income tracts.
+[^4]: carsonmatt \[at\] ucla \[dot\] edu
 
-[^4]: For example, the median income in San Francisco County is much greater than other regions and thus what is considered "low income" and "high income" for that county is much greater than in other regions.
+The following plot shows the per 10 million rate of police killings in census tracts based on their median household income as a proportion of the county median household income in which they are situated. I used this measure rather than raw incomes to adjust for differences in what is considered low income and high income.[^5]
+
+[^5]: For example, the median income in San Francisco County is much greater than other regions and thus what is considered "low income" and "high income" for that county is much greater than in other regions.
+
+This plot shows that the incidence of police killings varies quite a lot depending on tract income level. Low income tracts experience a rate nearly twice that of average income tracts, and high income tracts experience a rate less than one-third of low income tracts.
 
 ![](images/Tract_income_as_a_percentage_of_county_income-01.svg)
 
-This plot is constructed the same as the one above, except that it is subset to only include tracts with a white population \> 50%. The rates were similar to the overall plot above except for the low income plots.
+This plot is constructed the same as the one above, except that it is subset to only include tracts with a white population \> 50%. The rates were similar to the plot above except for the low income tracts.
 
 ![](images/white_barplot.png)
 
@@ -30,7 +34,7 @@ Another plot subset to only include tracts with a black population \> 50%. The r
 
 ![](images/black_barplot.png)
 
-Latino/Hispanic-majority tracts.
+Latino/Hispanic-majority tracts. Pretty clear trend here as well. The higher the income, the lower the rate.
 
 ![](images/hispanic_barplot.png)
 
@@ -38,7 +42,7 @@ In majority-Asian tracts the lowest income tracts also experienced the highest r
 
 ![](images/asian_barplot.png)
 
-Next I looked at tracts in which there was no race or ethnic majority, but more than one race/ethnicity comprised \> 30% of the population.
+Next I looked at tracts in which there was no racial or ethnic majority, but more than one race/ethnicity comprised \> 30% of the population.
 
 White-black tracts.
 
@@ -51,3 +55,26 @@ White-Hispanic/Latino
 Black-Hispanic/Latino. (No police killings occurred in high income tracts.)
 
 ![](images/BH_barplot.png)
+
+Here is the table with the rates.
+
+| Letter | Definition      |
+|:-------|:----------------|
+| W      | White           |
+| B      | Black           |
+| A      | Asian           |
+| H      | Hispanic/Latino |
+
+```{r, echo=FALSE}
+load("C:/Users/madou/OneDrive/matthewacarson.github.io/posts/police-killings-1/combined_category_and_total_pop.RData")
+combined_category_and_total_pop %>% 
+  select(-category) %>% 
+  rename(
+    Race = race,
+    "Income Level" = income_level,
+    "Total Population" = total_population,
+    "# of Police Killings" = num_fatal_enc,
+    "Average per Year" = avg_per_year,
+    "Per 10 Million Person-years" = per_10_milion_person_years
+  ) %>% arrange(`Income Level`) %>% arrange(Race) %>% kable
+```
