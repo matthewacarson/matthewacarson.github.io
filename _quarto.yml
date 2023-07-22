@@ -5,6 +5,7 @@ website:
   title: "Matt Carson"
   navbar:
     right:
+      - essays.qmd
       - about.qmd
       - icon: github
         href: https://github.com/matthewacarson
