@@ -1,4 +1,11 @@
-/* css styles */
-caption, .table-caption {
-  text-align: left;
-} 
+/* styles.css */
+
+/* Left-justify the main content on the About Me page */
+article.about .content {
+    text-align: left;
+}
+
+/* Left-justify the footnotes on the About Me page */
+article.about .content .footnotes {
+    text-align: left;
+}
