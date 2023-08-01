@@ -2,7 +2,7 @@
 title: "Household Income in Census Tracts Where Someone Was Killed by Police"
 author: "Matt Carson"
 date: "2023-07-22"
-categories: [police killings]
+categories: [Police Killings]
 # image: "image.jpg"
 ---
 
@@ -12,7 +12,7 @@ I'm working on a project analyzing various class indicators (or levels of depriv
 
 [^2]: I will refer to this phenomenon as "police killings" throughout the rest of the blog. This is not to be confused with law enforcement officers being killed.
 
-There is a longer history of the debate around whether or not police killings are a function of capitalist political economy and the managing of the "surplus population" or whether the phenomenon largely derives from discrimination against black Americans[^3]. I may return to this in more detail in a future post, but for now I wanted to share the plots I have made for my honors thesis project. Hopefully someone will find them useful in helping us to better understand the phenomenon. Any feedback is appreciated.[^4]
+There is a longer history of the debate around whether or not police killings are a function of capitalist political economy and the managing of the "surplus population" or whether the phenomenon largely derives from discrimination against black Americans.[^3] I may return to this in more detail in a future post, but for now I wanted to share the plots I have made for my honors thesis project. Hopefully someone will find them useful in helping us to better understand the phenomenon. Any feedback is appreciated.[^4]
 
 [^3]: Or both, but still the question hinges on to what extent racist discrimination can explain the phenomenon, and to what extent that explanation is inadequate.
 
@@ -56,7 +56,9 @@ Black-Hispanic/Latino. (No police killings occurred in high income tracts.)
 
 ![](images/BH_barplot.png)
 
-Here is the table with the rates.
+Update (7/26): I just want to add a plot that shows all the majority one race rates together:
+
+[![](images/combined_race_plot_no_legend.svg)](images/combined_race_plot_no_legend.svg)Here is the table with the rates.
 
 | Letter | Definition      |
 |:-------|:----------------|

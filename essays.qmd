@@ -1,6 +1,7 @@
 ---
 title: "Essays"
 # image: profile.jpg
+css: styles.css
 about:
   template: jolla
   # links:
@@ -15,4 +16,6 @@ about:
   #     href: https://github.com
 ---
 
+<div class="left-content">
 Under construction.
+</div>
