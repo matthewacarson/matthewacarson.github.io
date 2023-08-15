@@ -152,6 +152,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<p><strong><em>Update: 8/15/2023</em></strong></p>
+<p><strong><em>I <a href="#update-815">remade and added some additional plots</a> using the gentrification/displacement data because I thought that the original plot was not that helpful in discerning the data.</em></strong></p>
 <p>In a <a href="../police-killings-1">previous post</a> I introduced the first batch of plots showing how the rates of police killings vary across median incomes in census tracts relative to their median county income, basically a measure of income where a police killing occurred relative to the county income.</p>
 <p>Instead of using relative measures, this time I am using absolute income values and breaking them into quintiles. I’m also displaying a lot more information on single plots, so that should make the implications more discernible for readers.</p>
 <p>Additionally, I’m beginning to look at the <a href="https://www.urbandisplacement.org/">Urban Displacement Project’s</a> (UDP) data set. As of this writing, the data are limited to a handful of regions, but it’s still broad enough that I can make an initial plot. In a future post, I’ll extend the analysis beyond the 6 regions currently in the data set: Atlanta, Chicago, Denver, Los Angeles, San Francisco, and Seattle and their surrounding cities.</p>
@@ -164,11 +166,26 @@ ul.task-list li input[type="checkbox"] {
 <p>Summary Table:</p>
 <p><img src="images/variation_by_race.png" class="img-fluid" width="450"></p>
 <p>Next, I’ll share the initial plot using the gentrification data from the UDP. It looks like tracts that are at-risk of gentrification have experienced the highest rates.</p>
-<p><img src="images/UDP_initial_plot_ordered.png" class="img-fluid"></p>
-<p>Here is the UDP typology.</p>
+<section id="update-815" class="level4">
+<h4 class="anchored" data-anchor-id="update-815">Update: 8/15</h4>
+<p>I remade <a href="images/UDP_initial_plot_ordered.png">the plot that was previously here</a> to better show the trend when the <a href="#udp-typologies">UDP typologies</a> are plotted in the sequence show in the typology description below.</p>
+<p><img src="images/udp_original.png" class="img-fluid"></p>
+<p>I subset these data by tracts with a majority of one race or ethnicity. The issue I’m encountering with the limited regional data is that many of the underlying population numbers are quite small, inflating the per 10 million population per year rate. (<a href="#tables">See tables below</a> for the population numbers for a sense of the issue.) I suspect that broadening the scope of the research beyond the handful of regions will resolve this issue, but it will take some time since I will have to download data for more regions and use the replication code. I’ll provide an update on my progress here in a future post.</p>
+<p><img src="images/udp_majority.png" class="img-fluid"></p>
+<section id="tables" class="level5">
+<h5 class="anchored" data-anchor-id="tables">Tables</h5>
+<p>columns “n” or “count” are the number of lethal uses of force, not the number of census tracts.</p>
+<p><img src="images/grid.table_udp_cropped.png" class="img-fluid"></p>
+<p>Subset by majority race/ethnicity:</p>
+<p><img src="images/grid.table_udp_majority_cropped.png" class="img-fluid"></p>
+</section>
+<section id="udp-typologies" class="level5">
+<h5 class="anchored" data-anchor-id="udp-typologies">UDP typologies</h5>
 <p><img src="https://raw.githubusercontent.com/urban-displacement/displacement-typologies/main/.assets/images/typology_sheet_2018.png" class="img-fluid" width="578"></p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
