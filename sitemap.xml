@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://matthewacarson.github.io/about.html</loc>
-    <lastmod>2023-08-15T18:43:13.087Z</lastmod>
-  </url>
-  <url>
-    <loc>https://matthewacarson.github.io/essays.html</loc>
-    <lastmod>2023-08-15T18:43:13.617Z</lastmod>
+    <loc>https://matthewacarson.github.io/posts/police-killings-2/index.html</loc>
+    <lastmod>2024-03-10T22:03:36.773Z</lastmod>
   </url>
   <url>
     <loc>https://matthewacarson.github.io/index.html</loc>
-    <lastmod>2023-08-15T18:43:14.413Z</lastmod>
+    <lastmod>2024-03-10T22:03:36.726Z</lastmod>
   </url>
   <url>
-    <loc>https://matthewacarson.github.io/posts/construction-unions-1/index.html</loc>
-    <lastmod>2023-08-15T18:43:15.159Z</lastmod>
+    <loc>https://matthewacarson.github.io/about.html</loc>
+    <lastmod>2024-03-10T22:13:04.195Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matthewacarson.github.io/essays.html</loc>
+    <lastmod>2024-03-10T22:03:36.711Z</lastmod>
   </url>
   <url>
     <loc>https://matthewacarson.github.io/posts/police-killings-1/index.html</loc>
-    <lastmod>2023-08-15T18:43:16.131Z</lastmod>
-  </url>
-  <url>
-    <loc>https://matthewacarson.github.io/posts/police-killings-2/index.html</loc>
-    <lastmod>2023-08-15T18:43:16.723Z</lastmod>
+    <lastmod>2024-03-10T22:03:36.773Z</lastmod>
   </url>
 </urlset>
