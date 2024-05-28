@@ -7,10 +7,10 @@ website:
     right:
       - essays.qmd
       - about.qmd
+      - text: CV
+        href: https://bit.ly/CarsonCV
       - icon: github
         href: https://github.com/matthewacarson
-      # - icon: twitter
-        # href: https://twitter.com
 format:
   html:
     theme: cosmo

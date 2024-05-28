@@ -1,6 +1,6 @@
-system("git init")
+# system("git init")
 
-system("git remote add origin https://github.com/matthewacarson/matthewacarson.github.io.git")
+# system("git remote add origin https://github.com/matthewacarson/matthewacarson.github.io.git")
 
 # Use the following in PowerShell or Command Prompt
 # 
