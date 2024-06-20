@@ -6,9 +6,9 @@ website:
   navbar:
     right:
       - essays.qmd
-      - about.qmd
+      - blog.qmd
       - text: CV
-        href: https://bit.ly/CarsonCV
+        href: https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf # https://bit.ly/CarsonCV
       - icon: github
         href: https://github.com/matthewacarson
 format:

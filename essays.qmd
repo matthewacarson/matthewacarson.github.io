@@ -1,6 +1,6 @@
 ---
 title: "Essays"
-# image: profile.jpg
+# image: images\profile.jpg
 css: styles.css
 about:
   template: jolla
