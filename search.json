@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "posts/police-killings-2/index.html",
-    "href": "posts/police-killings-2/index.html",
-    "title": "Police Killings: Income Quintiles and Gentrification",
+    "objectID": "SocThesis.html",
+    "href": "SocThesis.html",
+    "title": "Redirect Page",
     "section": "",
-    "text": "In a previous post I introduced the first batch of plots showing how the rates of police killings vary across median incomes in census tracts relative to their median county income, basically a measure of income where a police killing occurred relative to the county income.\nInstead of using relative measures, this time I am using absolute income values and breaking them into quintiles. I’m also displaying a lot more information on single plots, so that should make the implications more discernible for readers.\nAdditionally, I’m beginning to look at the Urban Displacement Project’s (UDP) data set. As of this writing, the data are limited to a handful of regions, but it’s still broad enough that I can make an initial plot. In a future post, I’ll extend the analysis beyond the 6 regions currently in the data set: Atlanta, Chicago, Denver, Los Angeles, San Francisco, and Seattle and their surrounding cities.\n\n\nThe plot above emphasizes how the rates of police killings vary within tracts in the same income quintile by racial/ethnic majorities. Notice how the rates vary more across income quintiles than across racial groups. The next plot, displaying the same data except emphasizing the variation within racial/ethnic groups will illustrate this point even more clearly.\n\n\nNext, I’ll share the initial plot using the gentrification data from the UDP. It looks like tracts that are at-risk of gentrification have experienced the highest rates.\n\nHere is the UDP typology."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Matt Carson",
-    "section": "",
-    "text": "I graduated in June 2024 from the University of California, Los Angeles, summa cum laude, with a double major in Sociology and Political Science. During my senior year, I completed two senior theses, one in sociology, the other in political science. Both theses won the best thesis prize in the respective department.\nThe sociology thesis was a historical-comparative project that analyzed the different methods of organizing that unions organize. In particular, I am interested in how construction unions organize and establish relations with employers and how that corresponds with political stances that are more employer-friendly than other unions. Additionally, I am interested in how the method of organizing places construction unions in a weaker position that hinder the ability to challenge management and defend workers’ interests.\nThe political science thesis examined the relationship between economic inequality, gentrification, and police killings using census tract household income and the Urban Displacement Project’s gentrification typologies. In addition, I looked at the interactions between race of the victim and the racial composition of the census tract. My hope is that this project contributes to a better understanding of the phenomenon.\n\n\n\n\nDownload CV"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Police Killings: Income Quintiles and Gentrification\n\n\n\n\n\n\nPolice Killings\n\n\n\n\n\n\n\n\n\nAug 1, 2023\n\n\nMatt Carson\n\n\n\n\n\n\n\n\n\n\n\n\nHousehold Income in Census Tracts Where Someone Was Killed by Police\n\n\n\n\n\n\nPolice Killings\n\n\n\n\n\n\n\n\n\nJul 22, 2023\n\n\nMatt Carson\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "essays.html",
-    "href": "essays.html",
-    "title": "Essays",
-    "section": "",
-    "text": "Under construction."
+    "text": "If you are not redirected automatically, follow this link."
   },
   {
     "objectID": "posts/police-killings-1/index.html",
@@ -40,5 +19,33 @@
     "title": "Household Income in Census Tracts Where Someone Was Killed by Police",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nThese are “small, relatively permanent statistical subdivisions of a county or statistically equivalent entity” that “generally have a population size between 1,200 and 8,000 people, with an optimum size of 4,000 people” (US Census Bureau).\n↩︎\nI will refer to this phenomenon as “police killings” throughout the rest of the blog. This is not to be confused with law enforcement officers being killed.↩︎\nOr both, but still the question hinges on to what extent racist discrimination can explain the phenomenon, and to what extent that explanation is inadequate.↩︎\ncarsonmatt [at] ucla [dot] edu↩︎\nFor example, the median income in San Francisco County is much greater than other regions and thus what is considered “low income” and “high income” for that county is much greater than in other regions.↩︎"
+  },
+  {
+    "objectID": "essays.html",
+    "href": "essays.html",
+    "title": "Essays",
+    "section": "",
+    "text": "Under construction."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Police Killings: Income Quintiles and Gentrification\n\n\n\n\n\n\nPolice Killings\n\n\n\n\n\n\n\n\n\nAug 1, 2023\n\n\nMatt Carson\n\n\n\n\n\n\n\n\n\n\n\n\nHousehold Income in Census Tracts Where Someone Was Killed by Police\n\n\n\n\n\n\nPolice Killings\n\n\n\n\n\n\n\n\n\nJul 22, 2023\n\n\nMatt Carson\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matt Carson",
+    "section": "",
+    "text": "I graduated in June 2024 from the University of California, Los Angeles, summa cum laude, with a double major in Sociology and Political Science. During my senior year, I completed two senior theses, one in sociology, the other in political science. Both theses won the best thesis prize in the respective department.\nThe sociology thesis was a historical-comparative project that analyzed the different methods of organizing that unions organize. In particular, I am interested in how construction unions organize and establish relations with employers and how that corresponds with political stances that are more employer-friendly than other unions. Additionally, I am interested in how the method of organizing places construction unions in a weaker position that hinder the ability to challenge management and defend workers’ interests.\nThe political science thesis examined the relationship between economic inequality, gentrification, and police killings using census tract household income and the Urban Displacement Project’s gentrification typologies. In addition, I looked at the interactions between race of the victim and the racial composition of the census tract. My hope is that this project contributes to a better understanding of the phenomenon.\n\n\n\n\nDownload CV"
+  },
+  {
+    "objectID": "posts/police-killings-2/index.html",
+    "href": "posts/police-killings-2/index.html",
+    "title": "Police Killings: Income Quintiles and Gentrification",
+    "section": "",
+    "text": "In a previous post I introduced the first batch of plots showing how the rates of police killings vary across median incomes in census tracts relative to their median county income, basically a measure of income where a police killing occurred relative to the county income.\nInstead of using relative measures, this time I am using absolute income values and breaking them into quintiles. I’m also displaying a lot more information on single plots, so that should make the implications more discernible for readers.\nAdditionally, I’m beginning to look at the Urban Displacement Project’s (UDP) data set. As of this writing, the data are limited to a handful of regions, but it’s still broad enough that I can make an initial plot. In a future post, I’ll extend the analysis beyond the 6 regions currently in the data set: Atlanta, Chicago, Denver, Los Angeles, San Francisco, and Seattle and their surrounding cities.\n\n\nThe plot above emphasizes how the rates of police killings vary within tracts in the same income quintile by racial/ethnic majorities. Notice how the rates vary more across income quintiles than across racial groups. The next plot, displaying the same data except emphasizing the variation within racial/ethnic groups will illustrate this point even more clearly.\n\n\nNext, I’ll share the initial plot using the gentrification data from the UDP. It looks like tracts that are at-risk of gentrification have experienced the highest rates.\n\nHere is the UDP typology."
   }
 ]

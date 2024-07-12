@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://matthewacarson.github.io/posts/police-killings-2/index.html</loc>
-    <lastmod>2024-06-26T01:15:23.169Z</lastmod>
+    <loc>https://matthewacarson.github.io/SocThesis.html</loc>
+    <lastmod>2024-07-12T17:16:04.164Z</lastmod>
   </url>
   <url>
-    <loc>https://matthewacarson.github.io/index.html</loc>
-    <lastmod>2024-07-09T22:49:25.188Z</lastmod>
-  </url>
-  <url>
-    <loc>https://matthewacarson.github.io/blog.html</loc>
-    <lastmod>2024-06-26T01:15:23.107Z</lastmod>
+    <loc>https://matthewacarson.github.io/posts/police-killings-1/index.html</loc>
+    <lastmod>2024-06-26T01:15:23.154Z</lastmod>
   </url>
   <url>
     <loc>https://matthewacarson.github.io/essays.html</loc>
     <lastmod>2024-06-26T01:15:23.107Z</lastmod>
   </url>
   <url>
-    <loc>https://matthewacarson.github.io/posts/police-killings-1/index.html</loc>
-    <lastmod>2024-06-26T01:15:23.154Z</lastmod>
+    <loc>https://matthewacarson.github.io/blog.html</loc>
+    <lastmod>2024-06-26T01:15:23.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matthewacarson.github.io/index.html</loc>
+    <lastmod>2024-07-09T22:49:25.188Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matthewacarson.github.io/posts/police-killings-2/index.html</loc>
+    <lastmod>2024-06-26T01:15:23.169Z</lastmod>
   </url>
 </urlset>
