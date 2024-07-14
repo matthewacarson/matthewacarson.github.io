@@ -1,5 +1,5 @@
 ---
-title: "Essays"
+title: "Writing"
 # image: images\profile.jpg
 css: styles.css
 about:
@@ -16,6 +16,8 @@ about:
   #     href: https://github.com
 ---
 
-<div class="left-content">
-Under construction.
-</div>
+::: left-content
+[Political Science Thesis](PolSciThesis.html){target="_blank"}
+
+[Sociology Thesis](SocThesis.html){target="_blank"}
+:::

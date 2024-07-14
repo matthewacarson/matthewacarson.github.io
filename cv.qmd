@@ -1,0 +1,31 @@
+---
+title: "CV"
+---
+
+[Download CV](https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf){target="_blank"}
+
+<!--
+<iframe src="https://github.com/matthewacarson/matt_carson_cv/raw/main/matt_carson_cv.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/username/repository/raw/branch/path/to/your/file.pdf">Download PDF</a>.
+</iframe>
+-->
+
+<!--
+<object data="https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf" width="1000" height="1000" type='application/pdf'/>
+
+<iframe src="https://www.epi.org/careers/research-assistant-state-policy-and-research-earn-at-epi/" width="100%" height="600px">
+</iframe>
+-->
+
+<!--
+https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf
+https://raw.githubusercontent.com/matthewacarson/matt_carson_cv/main/matt_carson_cv.pdf
+-->
+
+<!--
+<meta http-equiv="refresh" content="0; url=https://github.com/matthewacarson/ps_thesis_latex/blob/main/word/Matthew_Carson_PS_Honors_Final.pdf" />
+<script>
+  window.location.href = "https://github.com/matthewacarson/ps_thesis_latex/blob/main/word/Matthew_Carson_PS_Honors_Final.pdf";
+</script>
+<p>If you are not redirected automatically, follow this <a href="https://github.com/matthewacarson/ps_thesis_latex/blob/main/word/Matthew_Carson_PS_Honors_Final.pdf">link</a>.</p>
+-->

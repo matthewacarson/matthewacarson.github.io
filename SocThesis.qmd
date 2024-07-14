@@ -1,0 +1,9 @@
+---
+title: "Sociology Thesis"
+---
+
+<meta http-equiv="refresh" content="0; url=https://github.com/matthewacarson/soc_thesis_latex/blob/main/soc_honors_thesis.pdf" />
+<script>
+  window.location.href = "https://github.com/matthewacarson/soc_thesis_latex/blob/main/soc_honors_thesis.pdf";
+</script>
+<p>If you are not redirected automatically, follow this <a href="https://github.com/matthewacarson/soc_thesis_latex/blob/main/soc_honors_thesis.pdf">link</a>.</p>

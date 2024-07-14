@@ -5,15 +5,20 @@ website:
   title: "Matt Carson"
   navbar:
     right:
-      - essays.qmd
+      - writing.qmd
       - blog.qmd
-      - text: CV
-        href: https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf # https://bit.ly/CarsonCV
+      - cv.qmd
+      # - text: CV
+        # href: https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf
       - icon: github
         href: https://github.com/matthewacarson
+      - icon: linkedin
+        href: https://www.linkedin.com/in/matt-a-carson/
 format:
   html:
     theme: cosmo
     css: styles.css
 
 editor: visual
+
+# https://bit.ly/CarsonCV

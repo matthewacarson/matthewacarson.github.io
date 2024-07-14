@@ -1,0 +1,9 @@
+---
+title: "Political Science Thesis"
+---
+
+<meta http-equiv="refresh" content="0; url=https://github.com/matthewacarson/ps_thesis_latex/blob/main/word/Matthew_Carson_PS_Honors_Final.pdf" />
+<script>
+  window.location.href = "https://github.com/matthewacarson/ps_thesis_latex/blob/main/word/Matthew_Carson_PS_Honors_Final.pdf";
+</script>
+<p>If you are not redirected automatically, follow this <a href="https://github.com/matthewacarson/ps_thesis_latex/blob/main/word/Matthew_Carson_PS_Honors_Final.pdf">link</a>.</p>
