@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -123,27 +122,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-jolla content">
+ <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">CV</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-
-</header>
-
-
+</header><main class="content" id="quarto-document-content">
 <p><a href="https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf" target="_blank">Download CV</a></p>
 <!--
 <iframe src="https://github.com/matthewacarson/matt_carson_cv/raw/main/matt_carson_cv.pdf" width="100%" height="600px">
@@ -152,7 +138,6 @@ ul.task-list li input[type="checkbox"] {
 -->
 <!--
 <object data="https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf" width="1000" height="1000" type='application/pdf'/>
-
 <iframe src="https://www.epi.org/careers/research-assistant-state-policy-and-research-earn-at-epi/" width="100%" height="600px">
 </iframe>
 -->
@@ -169,8 +154,9 @@ https://raw.githubusercontent.com/matthewacarson/matt_carson_cv/main/matt_carson
 -->
 
 
-
-</main> <!-- /main -->
+</main>  
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -191,13 +177,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
