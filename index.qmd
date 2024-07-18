@@ -39,12 +39,6 @@ I graduated in June 2024 from the University of California, Los Angeles, *summa 
 The sociology thesis was a historical-comparative project that analyzed the different methods of organizing that unions organize. In particular, I am interested in how construction unions organize and establish relations with employers and how that corresponds with political stances that are more employer-friendly than other unions. Additionally, I am interested in how the method of organizing places construction unions in a weaker position that hinder the ability to challenge management and defend workers' interests.
 
 The political science thesis examined the relationship between economic inequality, gentrification, and police killings using census tract household income and the Urban Displacement Project's gentrification typologies. In addition, I looked at the interactions between race of the victim and the racial composition of the census tract. My hope is that this project contributes to a better understanding of the phenomenon.
-
-<!-- Hi. My name is Matt Carson. I am an undergraduate studying sociology and political science at UCLA. I started this blog so that I would have a place to share my thoughts on two research projects I am currently working on. -->
-
-<!-- One project, that largely takes a historical-comparative approach, looks at construction and building trade unions in the United States and their distinct mode of organizing and collective bargaining, how it emerged and evolved over time, what makes it distinct from other craft unions, and what the political implications of those differences are. -->
-
-<!-- The other project investigates the phenomenon of lethal uses of police force in the United States. I use various class indicators in census tracts in which someone was killed by law enforcement to analyze the variation in rates between higher and lower class areas. Fundamentally, I am interested in how class position affects one's likelihood of being killed by law enforcement and how that varies across different racial and ethnic groups. I also intend to assess gentrification's impact on increased rates of lethal police force. This project is largely quantitative in nature, but I do ground my analysis historically in the emergence of postwar, urban policing. -->
 :::
 
 [Download CV](../cv.html)
