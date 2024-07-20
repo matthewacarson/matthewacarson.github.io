@@ -5,15 +5,17 @@ website:
   title: "Matt Carson"
   navbar:
     right:
-      - writing.qmd
-      - blog.qmd
-      - cv.qmd
-      # - text: CV
-        # href: https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf
-      - icon: github
-        href: https://github.com/matthewacarson
-      - icon: linkedin
-        href: https://www.linkedin.com/in/matt-a-carson/
+    - text: Home
+      href: index.html
+    - writing.qmd
+    - blog.qmd
+    - cv.qmd
+    # - text: CV
+      # href: https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf
+    - icon: github
+      href: https://github.com/matthewacarson
+    - icon: linkedin
+      href: https://www.linkedin.com/in/matt-a-carson/
 format:
   html:
     theme: cosmo
