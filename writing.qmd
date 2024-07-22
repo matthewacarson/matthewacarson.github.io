@@ -20,4 +20,6 @@ about:
 [Political Science Thesis](PolSciThesis.html){target="_blank"}
 
 [Sociology Thesis](SocThesis.html){target="_blank"}
+
+[StatCrunch Statistics Contest Submission](https://bit.ly/StatCrunchWinners){target="_blank"}
 :::
