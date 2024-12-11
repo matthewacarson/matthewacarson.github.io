@@ -8,7 +8,6 @@ website:
     - text: Home
       href: index.html
     - writing.qmd
-    - blog.qmd
     - cv.qmd
     # - text: CV
       # href: https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf
