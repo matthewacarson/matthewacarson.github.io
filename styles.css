@@ -1,11 +1,12 @@
-/* styles.css */
-
-/* Left-justify the main content on the About Me page */
-article.about .content {
-    text-align: left;
+.quarto-about-jolla {
+  width: 50vw; /* or 100% to occupy the entire width of its parent */
 }
 
-/* Left-justify the footnotes on the About Me page */
-article.about .content .footnotes {
-    text-align: left;
+main#quarto-document-content {
+  width: 100%;
+  text-align: left; 
+}
+
+.center-content {
+    text-align: center;
 }
