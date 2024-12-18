@@ -1,9 +1,10 @@
 .quarto-about-jolla {
-  width: 50vw; /* or 100% to occupy the entire width of its parent */
+  width: 100%; /* 50vw or 100% to occupy the entire width of its parent */
+  text-align: left;
 }
 
 main#quarto-document-content {
-  width: 100%;
+  width: 120%;
   text-align: left; 
 }
 
