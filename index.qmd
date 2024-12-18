@@ -4,8 +4,6 @@ image: images\profile.jpg
 css: styles.css
 about:
   template: jolla
-# template: jolla
-# css: styles.css  # Make sure this line is present and points to the correct styles.css file
 # links:
   # - icon: twitter
     # text: Twitter
@@ -20,25 +18,12 @@ about:
 title-block-banner: false
 ---
 
-```{=html}
-<style>
-/* Left-justify the main content on the About Me page */
-.about-content {
-    text-align: left;
-}
-
-/* Left-justify the footnotes on the About Me page */
-.about-content .footnotes {
-    text-align: left;
-}
-</style>
-```
-::: about-content
 I graduated in June 2024 from the University of California, Los Angeles, *summa cum laude*, with a double major in Sociology and Political Science. During my senior year, I completed two senior theses, one in sociology, the other in political science. Both theses won the best thesis prize in the respective department.
 
 The sociology thesis was a historical-comparative project that analyzed the different methods of organizing that unions use. In particular, I am interested in how construction unions organize and establish relations with employers and how that corresponds with political stances that are more employer-friendly than other unions. Additionally, I am interested in how the construction union method of organizing places construction unions in a weaker position that hinders their ability to challenge management and defend workers' interests.
 
 The political science thesis examined the relationship between economic inequality, gentrification, and police killings using census tract household income and the Urban Displacement Project's gentrification typologies. In addition, I looked at the interactions between race of the victim and the racial composition of the census tract. My hope is that this project contributes to a better understanding of the phenomenon.
-:::
 
+::: center-content
 [Download CV](../cv.html)
+:::

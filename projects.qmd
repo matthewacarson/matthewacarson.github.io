@@ -1,0 +1,53 @@
+---
+title: "Projects"
+# image: images\profile.jpg
+css: styles.css
+about:
+  template: jolla
+  # links:
+  #   - icon: twitter
+  #     text: Twitter
+  #     href: https://twitter.com
+  #   - icon: linkedin
+  #     text: LinkedIn
+  #     href: https://linkedin.com
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com
+---
+
+# 2024
+
+#### Political Science Thesis
+
+- Political Science Best Honors Thesis Prize
+
+- [The Policing of the ‘Reserve Army’: Economic Inequality and Police Killings](PolSciThesis.html){target="_blank"}
+
+#### Sociology Thesis
+
+- Sociology Best Honors Thesis: Lisa Mederos Memorial Prize
+
+- [Construction Union Agreements: Union Organizing in HistoricalComparative Perspective](SocThesis.html){target="_blank"}
+
+#### StatCrunch Statistics Contest
+
+- 1st place prize
+
+- [StatCrunch Statistics Contest Submission](StatCrunch.html){target="_blank"}
+
+# 2023
+
+#### Minimum Wage Differences in Differences Project
+
+- Political Science 170A - Studies in Statistical Analysis of Political Data (Fall 2023)
+
+- [Impact of Minimum Wage Increases on Unemployment: A Case Study of Limited Service restaurants along the border of Missouri and Kansas](ps170project.html)
+
+# 2020
+
+#### Constitutional Law Project
+
+- Accepted for presentation at the Bay Honors Research Symposium
+
+- [Climate Change and Eminent Domain: Using the Takings Clause to Avert a Climate Crisis](https://thinkyou.bayhonors.org/wp-content/uploads/BHS_Papers/2020_Symposium/MatthewCarson_ClimateChangeandEminentDomain.pdf){target="_blank"}
