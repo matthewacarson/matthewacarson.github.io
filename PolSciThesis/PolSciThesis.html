@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>CV – Matt Carson</title>
+<title>Political Science Thesis – Matt Carson</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,6 +68,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -92,12 +93,13 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../projects"> 
+    <a class="nav-link" href="../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../cv"> 
-<span class="menu-text">CV</span></a>
+    <span class="nav-link">
+<span class="menu-text">cv</span>
+    </span>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/matthewacarson"> <i class="bi bi-github" role="img">
@@ -125,19 +127,16 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-about-jolla">
  <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">CV</h1>
+<h1 class="title">Political Science Thesis</h1>
 </div>
 <div class="quarto-title-meta">
   </div>
 </header><main class="content" id="quarto-document-content">
-<!-- [Download CV](../pdfs/matt_carson_cv.pdf){target="_blank"} -->
-<div class="center-content">
-<p><a href="matt_carson_cv.pdf" target="_blank">Download CV</a></p>
-</div>
-<!-- Embedding a PDF file -->
-<iframe src="matt_carson_cv.pdf" width="100%" height="600px">
-<p>This browser does not support PDFs. Please download the PDF to view it: <a href="matt_carson_cv.pdf">Download PDF</a>.</p>
-</iframe>
+<p>If you are not redirected automatically, follow this <a href="https://escholarship.org/uc/item/4qq8h5jc" target="_blank">link</a>.</p>
+<meta http-equiv="refresh" content="0; url=https://escholarship.org/uc/item/4qq8h5jc">
+<script>
+  window.location.href = "https://escholarship.org/uc/item/4qq8h5jc";
+</script>
 
 
 </main>  
@@ -226,7 +225,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/matthewacarson\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
