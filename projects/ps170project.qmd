@@ -1,7 +1,7 @@
 ---
 title: "PS 170A Minimum Wage Project"
 # image: images\profile.jpg
-css: styles.css
+css: ../styles.css
 about:
   template: jolla
   # links:
@@ -19,7 +19,7 @@ about:
 
 #### Impact of Minimum Wage Increases on Unemployment: A Case Study of Limited Service restaurants along the border of Missouri and Kansas
 
-- This project was completed as part of **Political Science 170A Statistical Analysis of Political Data** (fall 2023).
+- This project was completed as part of **Political Science 170A Statistical Analysis of Political Data** (Fall 2023).
 
 - [Minimum Wage Project Poster](pdfs/min_wage_poster.pdf){target="_blank"}
 
@@ -27,4 +27,4 @@ about:
 
 
 
-[← Return to Projects](projects.html)
+[← Return to Projects](index.html)

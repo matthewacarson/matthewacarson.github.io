@@ -4,15 +4,16 @@
 
 # Use the following in PowerShell or Command Prompt
 # 
-# To publsih pages to the web: 
-# 1) Render qmd files in R Studio
-#     -OR- preview using:
-#       quarto preview cv.qmd --to html --no-watch-inputs --no-browse
+# To publsih pages to the web:
+# 1) Render qmd files in R Studio -OR-
+        in command prompt: quarto render <optional file name>
+# 2) preview using:
+#       quarto preview <optional file name>
 # 2) quarto publish gh-pages
 # 
 # To update source code:
 # 1) Navigate to the folder I want to commit (use cd command).
-#   git add .
+#   git add <file names or use a period for all files>
 #   git commit -m "Your commit message here"
 #   git push origin main
 #   

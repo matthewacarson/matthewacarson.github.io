@@ -7,19 +7,23 @@ website:
     right:
     - text: Home
       href: index.html
-    - projects.qmd
-    - cv.qmd
-    # - text: CV
-      # href: https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf
-    - icon: github
-      href: https://github.com/matthewacarson
-    - icon: linkedin
+    - text: Projects
+      href: projects
+    - text: "{{< iconify academicons:cv size=24px >}}"
+      href: cv
+    - text: "{{< iconify mdi:linkedin size=24px >}}"
       href: https://www.linkedin.com/in/matt-a-carson/
+    - text: "{{< iconify academicons:academia-square size=24px >}}"
+      href: https://ucla.academia.edu/MatthewCarson
+    - text: "{{< iconify academicons:orcid size=24px >}}"
+      href: https://orcid.org/0009-0004-4999-0858
+    - text: "{{< iconify academicons:researchgate-square size=24px >}}"
+      href: https://www.researchgate.net/profile/Matt-Carson
+    - text: "{{< iconify eva:github-fill size=24px >}}"
+      href: https://github.com/matthewacarson
 format:
   html:
     theme: cosmo
     css: styles.css
-
-editor: visual
 
 # https://bit.ly/CarsonCV

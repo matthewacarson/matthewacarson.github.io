@@ -25,5 +25,5 @@ The sociology thesis was a historical-comparative project that analyzed the diff
 The political science thesis examined the relationship between economic inequality, gentrification, and police killings using census tract household income and the Urban Displacement Project's gentrification typologies. In addition, I looked at the interactions between race of the victim and the racial composition of the census tract. My hope is that this project contributes to a better understanding of the phenomenon.
 
 ::: center-content
-[Download CV](../cv.html)
+[Download CV](../cv)
 :::
