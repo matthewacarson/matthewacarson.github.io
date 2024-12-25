@@ -26,4 +26,5 @@ format:
     theme: cosmo
     css: styles.css
 
-# https://bit.ly/CarsonCV
+resources:
+  - 404.html
