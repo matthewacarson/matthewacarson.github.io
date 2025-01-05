@@ -5,13 +5,7 @@ website:
   title: "Matt Carson"
   navbar:
     right:
-    - text: Home
-      href: index.html
-    - text: Projects
-      href: projects
-    - text: "{{< iconify academicons:cv size=24px >}}"
-      href: cv
-    - text: "{{< iconify mdi:linkedin size=24px >}}"
+    - text: "{{< iconify mdi:linkedin size=26px >}}"
       href: https://www.linkedin.com/in/matt-a-carson/
     - text: "{{< iconify academicons:academia-square size=24px >}}"
       href: https://ucla.academia.edu/MatthewCarson
@@ -21,10 +15,23 @@ website:
       href: https://www.researchgate.net/profile/Matt-Carson
     - text: "{{< iconify eva:github-fill size=24px >}}"
       href: https://github.com/matthewacarson
+    left:
+    - text: Home
+      href: index.html
+    - text: Projects
+      href: projects
+    - text: Contact
+      href: contact.html
+    - text: "{{< iconify academicons:cv size=24px >}}"
+      href: cv
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: [cosmo, theme_dark.scss]
     css: styles.css
+
+
 
 resources:
   - 404.html
