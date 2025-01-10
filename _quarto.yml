@@ -27,7 +27,7 @@ website:
 format:
   html:
     theme:
-      light: cosmo
+      light: [cosmo, theme_light.scss]
       dark: [cosmo, theme_dark.scss]
     css: styles.css
 

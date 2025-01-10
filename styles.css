@@ -12,3 +12,68 @@ main#quarto-document-content {
     text-align: center;
 }
 
+/* Remove body padding */
+body {
+  padding-top: 0 !important;
+  /* color: black; */
+}
+
+/* Adjust content container spacing */
+#quarto-content {
+  min-height: 100vh;
+  padding-top: 0;
+}
+
+/* Remove spacing from jolla template */
+.quarto-about-jolla {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+/* Ensure iframe fits properly */
+iframe {
+  margin-top: 0;
+  display: block;
+}
+
+h1 {
+  margin-top: 0em;    /* Space above the header */
+  margin-bottom: 6pt; /* Space below the header */
+}
+
+h2 {
+  margin-top: 0em;    /* Space above the header */
+  margin-bottom: .5pt; /* Space below the header */
+  text-transform: uppercase;  /* Makes all letters CAPITAL regardless of input */
+}
+
+h3 {
+  margin-top: 0em;    /* Space above the header */
+  margin-bottom: 6pt; /* Space below the header */
+  font-size: 1.25em;      /* Makes text size 2.5 times larger than the base font size */
+  padding-left: 1em;
+}
+
+h4 {
+  margin-top: 0em;    /* Space above the header */
+  margin-bottom: 0em; /* Space below the header */
+}
+
+h5 {
+  margin-top: 0em;    /* Space above the header */
+  margin-bottom: 0em; /* Space below the header */
+}
+
+h6 {
+  margin-top: 0em;    /* Space above the header */
+  margin-bottom: 0em; /* Space below the header */
+}
+
+/* Control main list indentation */
+ul {
+    margin-left: 1em;     /* Space from page margin to bullet */
+}
+
+
+
+

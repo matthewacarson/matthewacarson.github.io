@@ -18,36 +18,39 @@ about:
 
 # 2024
 
-#### Political Science Thesis
+## Political Science Thesis
 
+### [The Policing of the ‘Reserve Army’: Economic Inequality and Police Killings](PolSciThesis.html){target="_blank"}
+- [Abbreviated writing sample available](ps_thesis_abbreviated.pdf)
+
+### Awards
 - Political Science Best Honors Thesis Prize
 
-- [The Policing of the ‘Reserve Army’: Economic Inequality and Police Killings](PolSciThesis.html){target="_blank"}
+## Sociology Thesis
 
-#### Sociology Thesis
+### [Construction Union Agreements: Union Organizing in Historical-Comparative Perspective](SocThesis.html){target="_blank"}
+- [Abbreviated writing sample available](soc_thesis_abbreviated.pdf)
 
+### Awards
 - Sociology Best Honors Thesis: Lisa Mederos Memorial Prize
 
-- [Construction Union Agreements: Union Organizing in HistoricalComparative Perspective](SocThesis.html){target="_blank"}
+## StatCrunch Statistics Contest
 
-#### StatCrunch Statistics Contest
+### [StatCrunch Competition: Twitch Dataset](StatCrunch.html){target="_blank"}
 
+### Awards
 - 1st place prize
-
-- [StatCrunch Statistics Contest Submission](StatCrunch.html){target="_blank"}
 
 # 2023
 
-#### Minimum Wage Differences in Differences Project
+## Minimum Wage Differences in Differences Project
+### [Impact of Minimum Wage Increases on Unemployment: A Case Study of Limited Service restaurants along the border of Missouri and Kansas](ps170project.html)
 
-- Political Science 170A - Studies in Statistical Analysis of Political Data (Fall 2023)
-
-- [Impact of Minimum Wage Increases on Unemployment: A Case Study of Limited Service restaurants along the border of Missouri and Kansas](ps170project.html)
+- Final project for Political Science 170A - Studies in Statistical Analysis of Political Data (Fall 2023)
 
 # 2020
 
-#### Constitutional Law Project
+## Constitutional Law Project
+### [Climate Change and Eminent Domain: Using the Takings Clause to Avert a Climate Crisis](https://thinkyou.bayhonors.org/wp-content/uploads/BHS_Papers/2020_Symposium/MatthewCarson_ClimateChangeandEminentDomain.pdf){target="_blank"}
 
-- Accepted for presentation at the Bay Honors Research Symposium
-
-- [Climate Change and Eminent Domain: Using the Takings Clause to Avert a Climate Crisis](https://thinkyou.bayhonors.org/wp-content/uploads/BHS_Papers/2020_Symposium/MatthewCarson_ClimateChangeandEminentDomain.pdf){target="_blank"}
+- Accepted for presentation at the [Bay Honors Research Symposium](https://bayhonors.org/symposium/){target="_blank"}
