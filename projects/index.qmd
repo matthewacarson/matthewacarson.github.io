@@ -21,7 +21,7 @@ about:
 ## Political Science Thesis
 
 ### [The Policing of the ‘Reserve Army’: Economic Inequality and Police Killings](PolSciThesis.html){target="_blank"}
-- [Abbreviated writing sample available](ps_thesis_abbreviated.pdf)
+- [Abbreviated writing sample available](pdfs/ps_thesis_abbreviated.pdf)
 
 ### Awards
 - Political Science Best Honors Thesis Prize
@@ -29,7 +29,7 @@ about:
 ## Sociology Thesis
 
 ### [Construction Union Agreements: Union Organizing in Historical-Comparative Perspective](SocThesis.html){target="_blank"}
-- [Abbreviated writing sample available](soc_thesis_abbreviated.pdf)
+- [Abbreviated writing sample available](pdfs/soc_thesis_abbreviated.pdf)
 
 ### Awards
 - Sociology Best Honors Thesis: Lisa Mederos Memorial Prize
