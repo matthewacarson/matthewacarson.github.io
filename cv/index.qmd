@@ -1,13 +1,19 @@
 ---
+title: "Curriculum Vitae"
 css: ../styles.css
 about:
   template: jolla
 ---
 <style>
+
 #title-block-header {
   margin: 0;
   padding: 0;
   height: 0;
+}
+
+h1.title {
+  display: none;
 }
 </style>
 
