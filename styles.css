@@ -37,12 +37,12 @@ iframe {
 }
 
 h1 {
-  margin-top: 0em;    /* Space above the header */
+  margin-top: 1em;    /* Space above the header */
   margin-bottom: 6pt; /* Space below the header */
 }
 
 h2 {
-  margin-top: 0em;    /* Space above the header */
+  margin-top: 1em;    /* Space above the header */
   margin-bottom: .5pt; /* Space below the header */
   text-transform: uppercase;  /* Makes all letters CAPITAL regardless of input */
 }
