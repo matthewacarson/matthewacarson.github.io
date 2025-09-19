@@ -8,28 +8,13 @@ title-block-banner: false
 ---
 
 
-I graduated *summa cum laude* in June 2024 from the University of California, Los Angeles, with a BA in Sociology and Political Science. During my senior year, I completed two senior theses, one in sociology and the other in political science. Both theses won the best thesis prize in the respective department.
+I am a PhD student in Harvard University's Sociology Department. My research interests center on labor unions and their organizing strategies, state violence (including police violence), and economic inequality and class analysis more broadly.
 
-My sociology thesis was a historical-comparative analysis of union organizing strategies, with a focus on construction unions. I examined how the organizing strategies used by construction unions shape their comparatively employer-friendly political stances and how their organizing model weakens their ability to challenge management and defend workers’ interests.
+My work on labor focuses on construction unions and their organizing models, examining how these strategies shape unions' comparatively employer-friendly political stances and weaken their ability to challenge management and defend workers' interests. I'm particularly interested in the historical-comparative dimensions of union organizing and how different approaches impact labor's political power.
 
-My political science thesis explored the relationship between economic inequality, gentrification, and police killings. Using census tract household income data and the Urban Displacement Project’s gentrification typologies, I analyzed how interactions between race, economic inequality, and gentrification influence the probability of police killings. I hope this research contributes to a better understanding of the phenomenon and how to combat it.
+I'm also engaged in research exploring the relationship between economic inequality, gentrification, and police killings. Using census tract household income data and gentrification typologies, I analyze how interactions between race, class, and neighborhood change influence patterns of police violence. This work aims to contribute to a better understanding of police violence and inform efforts to address it.
 
-
-
-<!-- This is the old version 2: -->
-
-<!--
-The sociology thesis was a historical-comparative project that analyzed the different methods of organizing that unions use. In particular, I am interested in how construction unions organize and establish relations with employers and how that corresponds with political stances that are more employer-friendly than other unions. Additionally, I am interested in how the construction union method of organizing places construction unions in a weaker position that hinders their ability to challenge management and defend workers’ interests.
-
-The political science thesis examined the relationship between economic inequality, gentrification, and police killings using census tract household income and the Urban Displacement Project’s gentrification typologies. In addition, I looked at the interactions between the victim’s race and the racial composition of the census tract. My hope is that this project contributes to a better understanding of the phenomenon and how to combat it. -->
-
-<!-- This is the old version: -->
-
-<!-- I graduated in June 2024 from the University of California, Los Angeles, *summa cum laude*, with a double major in Sociology and Political Science. During my senior year, I completed two senior theses, one in sociology, the other in political science. Both theses won the best thesis prize in the respective department.
-
-The sociology thesis was a historical-comparative project that analyzed the different methods of organizing that unions use. In particular, I am interested in how construction unions organize and establish relations with employers and how that corresponds with political stances that are more employer-friendly than other unions. Additionally, I am interested in how the construction union method of organizing places construction unions in a weaker position that hinders their ability to challenge management and defend workers' interests.
-
-The political science thesis examined the relationship between economic inequality, gentrification, and police killings using census tract household income and the Urban Displacement Project's gentrification typologies. In addition, I looked at the interactions between race of the victim and the racial composition of the census tract. My hope is that this project contributes to a better understanding of the phenomenon. -->
+Both areas of research reflect my broader interest in how class, spatial dynamics, and institutional power shape social inequality and collective action.
 
 
 ::: center-content

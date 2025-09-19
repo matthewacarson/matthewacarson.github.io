@@ -5,8 +5,8 @@
 # Use the following in PowerShell or Command Prompt
 # 
 # To publsih pages to the web:
-# 1) Render qmd files in R Studio -OR-
-        in command prompt: quarto render <optional file name>
+# 1) Render qmd files in R Studio -OR- 
+        # in command prompt: quarto render <optional file name>
 # 2) preview using:
 #       quarto preview <optional file name>
 # 2) quarto publish gh-pages
