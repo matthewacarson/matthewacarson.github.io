@@ -11,7 +11,7 @@ about:
 ## Political Science Thesis
 
 ### [The Policing of the ‘Reserve Army’: Economic Inequality and Police Killings](PolSciThesis.html){target="_blank"}
-- [Abbreviated writing sample available](pdfs/ps_thesis_abbreviated.pdf)
+<!-- - [Abbreviated writing sample available](pdfs/ps_thesis_abbreviated.pdf) -->
 
 ### Awards
 - Political Science Best Honors Thesis Prize
@@ -19,7 +19,7 @@ about:
 ## Sociology Thesis
 
 ### [Construction Union Agreements: Union Organizing in Historical-Comparative Perspective](SocThesis.html){target="_blank"}
-- [Abbreviated writing sample available](pdfs/soc_thesis_abbreviated.pdf)
+<!-- - [Abbreviated writing sample available](pdfs/soc_thesis_abbreviated.pdf) -->
 
 ### Awards
 - Sociology Best Honors Thesis: Lisa Mederos Memorial Prize
@@ -31,12 +31,12 @@ about:
 ### Awards
 - 1st place prize
 
-# 2023
+<!-- # 2023 -->
 
-## Minimum Wage Differences in Differences Project
-### [Impact of Minimum Wage Increases on Unemployment: A Case Study of Limited Service restaurants along the border of Missouri and Kansas](ps170project.html)
+<!-- ## Minimum Wage Differences in Differences Project -->
+<!-- ### [Impact of Minimum Wage Increases on Unemployment: A Case Study of Limited Service restaurants along the border of Missouri and Kansas](ps170project.html) -->
 
-- Final project for Political Science 170A - Studies in Statistical Analysis of Political Data (Fall 2023)
+<!-- - Final project for Political Science 170A - Studies in Statistical Analysis of Political Data (Fall 2023) -->
 
 # 2020
 
